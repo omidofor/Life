@@ -1,0 +1,3056 @@
+{
+  "stateCharts": [
+    {
+      "key": "GkRSWE",
+      "label": "青年公園游泳池",
+      "content": "flowchart TB\n    n1[\"地區\"] --- n2[\"名稱\"]\n    n3[\"門票\"] --- n2\n    n4[\"開放時段\"] --- n2\n    n2 --- n5[\"地點\"] & n6[\"活動類型\"]\n    n6 --- n9[\"類型1\"] & n16[\"類型3\"]\n    n11[\"幼童\"] --- n3\n    n12[\"成人\"] --- n3\n    n14[\"平日\"] --- n4\n    n15[\"時段\"] --- n14 & n19[\"假日\"]\n    n17[\"價錢\"] --- n11\n    n18[\"價錢\"] --- n12\n    n19 --- n4",
+      "parent": "xeuys2",
+      "metadata": {
+        "n1": {
+          "key": "9POYL9",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "oktAqt"
+        },
+        "n2": {
+          "key": "f2uqzd",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "青年公園游泳池",
+            "shape": null,
+            "style": {},
+            "img": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqamt3e-lhfo4o0pPK0z6iTikSVM2vS_W_i3A0nhDX6bA5Dr3SoQrDPjTmy33ukYetvTLujDR_6XKmsIQnMauXQEuV54NVqG5UfVGw5arXFOP8_U4gDGChwwR0anDlx7Qe7UxU=w408-h306-k-no",
+            "imageHeight": 200
+          },
+          "data": {
+            "urls": [
+              {
+                "key": "lYKR8u",
+                "text": "google map",
+                "href": "https://maps.app.goo.gl/ScNanPvLxZZwkF5u7"
+              },
+              {
+                "key": "ClsNKR",
+                "text": "IG",
+                "href": "https://www.instagram.com/p/DLzuI8WheiO/"
+              }
+            ],
+            "description": ""
+          }
+        },
+        "n3": {
+          "key": "Yz0R4Q",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n4": {
+          "key": "8EGvjN",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n5": {
+          "key": "6hVBwM",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "MaUVPi"
+        },
+        "n6": {
+          "key": "aIqRCZ",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n9": {
+          "key": "ge0CJ2",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "ZOzlh8"
+        },
+        "n11": {
+          "key": "ZTaAM1",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "RbjyJT"
+        },
+        "n12": {
+          "key": "xaLBRX",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "dInuqG"
+        },
+        "n14": {
+          "key": "H4cPxP",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "1aEOUv"
+        },
+        "n15": {
+          "key": "zD1mfU",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "05:30~22:30",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "77kcFI",
+          "chartNodeKey": "530~2230"
+        },
+        "n16": {
+          "key": "2M0X6s",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "yH2NWF"
+        },
+        "n17": {
+          "key": "mdYp0T",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "0",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "Hn68Gd",
+          "chartNodeKey": "0"
+        },
+        "n18": {
+          "key": "1skOix",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "110",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "Hn68Gd",
+          "chartNodeKey": "110"
+        },
+        "n19": {
+          "key": "EiBDZW",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "O4Drgl"
+        }
+      },
+      "updatedDate": "2026/03/02 01:21:35"
+    },
+    {
+      "key": "r7wW23",
+      "label": "滑板公園",
+      "content": "flowchart TB\n    n1[\"地區\"] --- n2[\"名稱\"]\n    n3[\"門票\"] --- n2\n    n4[\"開放時段\"] --- n2\n    n2 --- n5[\"地點\"] & n6[\"活動類型\"]\n    n6 --- n9[\"類型1\"] & n16[\"類型3\"]\n    n14[\"平日\"] --- n4\n    n15[\"時段\"] --- n14 & n19[\"假日\"]\n    n19 --- n4\n    n17[\"價錢\"] --- n3",
+      "parent": "4qympN",
+      "metadata": {
+        "n1": {
+          "key": "by4sAh",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "94CMVK"
+        },
+        "n2": {
+          "key": "8O8uYL",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "滑板公園",
+            "shape": null,
+            "style": {},
+            "img": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo0KS5r5hp-b9CdJsDDcn_bP1cHwYJU-O4WnAgcIRo5Icts2hSsBlApYWsFu8Zzv0-uDjCyoknJ9nZA21GyvxqulxPeLa-vs-J8ZGa9XZp_QdndJXrx6CmpibtsLyj8yZ8XjaN9lg=w408-h306-k-no",
+            "imageHeight": 200
+          },
+          "data": {
+            "urls": [
+              {
+                "key": "WVqnNj",
+                "text": "google map",
+                "href": "https://maps.app.goo.gl/1gKUM75cp52bmSmR9"
+              },
+              {
+                "key": "i4nMOc",
+                "text": "IG",
+                "href": "https://www.instagram.com/p/C6Qerekv5XT/"
+              }
+            ],
+            "description": ""
+          }
+        },
+        "n3": {
+          "key": "VS15NT",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n4": {
+          "key": "IqW9Tv",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n5": {
+          "key": "WzKKvg",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "sTzUiA"
+        },
+        "n6": {
+          "key": "IH7t1C",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n9": {
+          "key": "T3YG6w",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "P1txvI"
+        },
+        "n16": {
+          "key": "YcsHvi",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "O48ASG"
+        },
+        "n14": {
+          "key": "sQmqQn",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "1aEOUv"
+        },
+        "n15": {
+          "key": "6XIqHR",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "00:00~24:00",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "77kcFI",
+          "chartNodeKey": "0~2400"
+        },
+        "n19": {
+          "key": "dmhfhS",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "O4Drgl"
+        },
+        "n17": {
+          "key": "3jlt3Q",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "0",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "jlzrxK",
+          "chartNodeKey": "0"
+        }
+      },
+      "updatedDate": "2026/03/02 01:26:23"
+    },
+    {
+      "key": "lOCGTZ",
+      "label": "興隆公園自然森林遊戲場",
+      "content": "flowchart TB\n    n1[\"地區\"] --- n2[\"名稱\"]\n    n3[\"門票\"] --- n2\n    n4[\"開放時段\"] --- n2\n    n2 --- n5[\"地點\"] & n6[\"活動類型\"]\n    n6 --- n9[\"類型1\"] & n10[\"類型2\"]\n    n14[\"平日\"] --- n4\n    n15[\"時段\"] --- n14 & n19[\"假日\"]\n    n19 --- n4\n    n17[\"價錢\"] --- n3",
+      "parent": "4qympN",
+      "metadata": {
+        "n1": {
+          "key": "axP2RP",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "94CMVK"
+        },
+        "n2": {
+          "key": "JyI24K",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "興隆公園自然森林遊戲場",
+            "shape": null,
+            "style": {},
+            "img": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepcPoqTf2ZWik6Dc2_N-tnHGNRU-HpoyuBj_gJ8C47YjRLs5kKLbkvi045PVfBpsvgxRmdcWWfXRWu0z8jnbmWVl1Zr6wBBcro61gDT4RhAK808pq5BOF4z9AjGb-DmgxdeqTuQ=w408-h306-k-no",
+            "imageHeight": 200
+          },
+          "data": {
+            "urls": [
+              {
+                "key": "vKpHD5",
+                "text": "google map",
+                "href": "https://maps.app.goo.gl/msAdhVZKjZDgoptc6"
+              },
+              {
+                "key": "0d7fYj",
+                "text": "IG",
+                "href": "https://www.instagram.com/p/C6Qerekv5XT/"
+              }
+            ],
+            "description": ""
+          }
+        },
+        "n3": {
+          "key": "9pVnDX",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n4": {
+          "key": "Mkc50j",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n5": {
+          "key": "7tAT3s",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "sTzUiA"
+        },
+        "n6": {
+          "key": "NgNgi7",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n9": {
+          "key": "KOBG2o",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "P1txvI"
+        },
+        "n10": {
+          "key": "GpQg7g",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "O48ASG"
+        },
+        "n14": {
+          "key": "U5YuOG",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "1aEOUv"
+        },
+        "n15": {
+          "key": "9WJGx4",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "00:00~24:00",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "77kcFI",
+          "chartNodeKey": "0~2400"
+        },
+        "n19": {
+          "key": "ijhyoz",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "O4Drgl"
+        },
+        "n17": {
+          "key": "FHZBbC",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "0",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "Hn68Gd",
+          "chartNodeKey": "0"
+        }
+      },
+      "updatedDate": "2026/03/02 01:27:40"
+    },
+    {
+      "key": "nB6enx",
+      "label": "AI智慧園區公園",
+      "content": "flowchart TB\n    n1[\"地區\"] --- n2[\"名稱\"]\n    n3[\"門票\"] --- n2\n    n4[\"開放時段\"] --- n2\n    n2 --- n5[\"地點\"] & n6[\"活動類型\"]\n    n6 --- n9[\"類型1\"] & n10[\"類型2\"]\n    n14[\"平日\"] --- n4\n    n15[\"時段\"] --- n14 & n19[\"假日\"]\n    n19 --- n4\n    n17[\"價錢\"] --- n3",
+      "parent": "4qympN",
+      "metadata": {
+        "n1": {
+          "key": "f0NHPC",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "94CMVK"
+        },
+        "n2": {
+          "key": "UBjQlo",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "AI智慧園區公園",
+            "shape": null,
+            "style": {},
+            "img": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqUFG7V7uIvOEfz1sAR1VUacwxpSAvtLFWWoHkyK5WzCN0GUFLKU4MSZSkNwd6sjFGSGnyucviTznIo0bDbxRPoR5hclwpzgMMFXgmMCswObB6oVSQKXP0-Mm7mxUPSZAn3sO6scg=w408-h306-k-no",
+            "imageHeight": 200
+          },
+          "data": {
+            "urls": [
+              {
+                "key": "VjKtlt",
+                "text": "google map",
+                "href": "https://maps.app.goo.gl/fjJrVAUSZwSuC6KAA"
+              },
+              {
+                "key": "NPjJW1",
+                "text": "IG",
+                "href": "https://www.instagram.com/p/C6Qerekv5XT/"
+              }
+            ],
+            "description": ""
+          }
+        },
+        "n3": {
+          "key": "7Haj3V",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n4": {
+          "key": "njz2xY",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n5": {
+          "key": "sOYcl8",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "sTzUiA"
+        },
+        "n6": {
+          "key": "3MXdcA",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n9": {
+          "key": "oZLfGD",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "P1txvI"
+        },
+        "n10": {
+          "key": "6g6GnO",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "O48ASG"
+        },
+        "n14": {
+          "key": "3gNgyA",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "1aEOUv"
+        },
+        "n15": {
+          "key": "F9wAie",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "00:00~24:00",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "77kcFI",
+          "chartNodeKey": "0~2400"
+        },
+        "n19": {
+          "key": "YGPjba",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "O4Drgl"
+        },
+        "n17": {
+          "key": "Y3D40G",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "0",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "jlzrxK",
+          "chartNodeKey": "0"
+        }
+      },
+      "updatedDate": "2026/03/02 01:30:52"
+    },
+    {
+      "key": "7ZYwIP",
+      "label": "高千穗峽",
+      "content": "flowchart TB\n    n1[\"地區\"] --- n2[\"名稱\"]\n    n2 --- n5[\"地點\"] & n6[\"活動類型\"]\n    n6 --- n9[\"類型1\"]\n    n9 --- n4[\"開放時段\"] & n20[\"門票\"]\n    n4 --- n14[\"平日\"] & n19[\"假日\"]\n    n19 --- n15[\"時段\"]\n    n14 --- n15\n    n20 --- n21[\"假日\"] & n22[\"平日\"]\n    n21 --- n23[\"價錢\"]\n    n22 --- n24[\"價錢\"]",
+      "parent": "7l4elo",
+      "metadata": {
+        "n1": {
+          "key": "ipslOU",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "j94Oq0"
+        },
+        "n2": {
+          "key": "9nCV4u",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "高千穗峽",
+            "shape": null,
+            "style": {},
+            "img": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep_K77TPB6xyPpVBN7tmp-r3EkK_QPeKzzMMJg5A_s6EtIUFtcvDszDhyhUisy6cRAWm3NF9OhQvstwGuIrBTbA9wd6fBocgZuReLZUgqvrKNifDmKnWiMrx5T54t1c6QuHNceutQ=w408-h272-k-no",
+            "imageHeight": 200
+          },
+          "data": {
+            "urls": [
+              {
+                "key": "S7Wzp1",
+                "text": "google map",
+                "href": "https://maps.app.goo.gl/919WR3982HkwsLXZ9"
+              }
+            ],
+            "description": ""
+          }
+        },
+        "n5": {
+          "key": "4stdwH",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "GI6Tbq"
+        },
+        "n6": {
+          "key": "21qcJA",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n9": {
+          "key": "N2o2O3",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [
+              {
+                "key": "InhFtc",
+                "text": "重點整理 - IG",
+                "href": "https://www.instagram.com/p/DSY-oSNk3fR/"
+              },
+              {
+                "key": "pvBI2F",
+                "text": "訂票",
+                "href": "https://zh-tw-62123.site-translation.com/boat/detail.php"
+              },
+              {
+                "key": "jVGehE",
+                "text": "google相關資訊",
+                "href": "https://www.google.com/search?q=%E9%AB%98%E5%8D%83%E7%A9%97%E5%B3%BD%E5%87%BA%E7%A7%9F%E8%88%B9"
+              }
+            ],
+            "description": ""
+          },
+          "parent": "nc2Yj0"
+        },
+        "n4": {
+          "key": "JsmYVx",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n20": {
+          "key": "gf1ta8",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n14": {
+          "key": "vpPlY9",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "1aEOUv"
+        },
+        "n19": {
+          "key": "7ohJH7",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "O4Drgl"
+        },
+        "n15": {
+          "key": "6Aal63",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "08:30~16:00",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "chartNodeKey": "830~1600",
+          "parent": "77kcFI"
+        },
+        "n21": {
+          "key": "TQoxCN",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "O4Drgl"
+        },
+        "n22": {
+          "key": "TFR5vj",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "1aEOUv"
+        },
+        "n23": {
+          "key": "qi9NqQ",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "5100",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "Ha0yLH",
+          "chartNodeKey": "5100"
+        },
+        "n24": {
+          "key": "zl06S3",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "4900",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "chartNodeKey": "4900",
+          "parent": "Ha0yLH"
+        }
+      },
+      "updatedDate": "2026/03/03 09:40:30"
+    },
+    {
+      "key": "mUih4x",
+      "label": "九州自然動物園",
+      "content": "flowchart TB\n    n1[\"地區\"] --- n2[\"名稱\"]\n    n2 --- n5[\"地點\"] & n6[\"活動類型\"]\n    n6 --- n9[\"類型1\"]\n    n9 --- n4[\"開放時段\"] & n20[\"門票\"]\n    n4 --- n14[\"11~2月\"] & n19[\"3~10月\"]\n    n19 --- n15[\"時段\"]\n    n20 --- n21[\"成人\"] & n22[\"小孩\"]\n    n21 --- n23[\"價錢\"]\n    n22 --- n24[\"價錢\"]\n    n14 --- n25[\"時段\"]",
+      "parent": "TPMJ5W",
+      "metadata": {
+        "n1": {
+          "key": "GFIy40",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "7rnc6S"
+        },
+        "n2": {
+          "key": "P9Fpq1",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "九州自然動物園",
+            "shape": null,
+            "style": {},
+            "img": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoelBKAPAWboAD3cxErn2M4yqOngxy86_1dxbOmg3m_aF4ChQE9MDZ4hTNQ0NjieHdnjXInt46J70tRkj82GSEcOm9Vkx1WO1GC3jea3YwjHbm_xukJd_qcYaqU18sNFshfKj58=w408-h305-k-no",
+            "imageHeight": 200
+          },
+          "data": {
+            "urls": [
+              {
+                "key": "69gtXU",
+                "text": "google map",
+                "href": "https://maps.app.goo.gl/jNt41RSiVu15DPCd9"
+              },
+              {
+                "key": "er2wfE",
+                "text": "遊記 - IG",
+                "href": "https://www.instagram.com/p/DQ-2uLTk3Yv/"
+              }
+            ],
+            "description": ""
+          }
+        },
+        "n5": {
+          "key": "abN2Xm",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "mIrlVl"
+        },
+        "n6": {
+          "key": "8TuYez",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n9": {
+          "key": "Wh7Wf9",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "lcnKlS"
+        },
+        "n4": {
+          "key": "ujMrWi",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n20": {
+          "key": "BzLH9m",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n14": {
+          "key": "fN1xcA",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "11~2月",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "chartNodeKey": "1~3,11~13",
+          "parent": "4tVb3z"
+        },
+        "n19": {
+          "key": "HA93H9",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "3~10月",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "4tVb3z",
+          "chartNodeKey": "3~11"
+        },
+        "n15": {
+          "key": "hNf9a1",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "09:00~16:00",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "77kcFI",
+          "chartNodeKey": "900~1600"
+        },
+        "n21": {
+          "key": "YtP8yF",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "dInuqG"
+        },
+        "n22": {
+          "key": "ALMoxg",
+          "chartNodeValue": null,
+          "theme": {
+            "label": ">=4歲",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "0l5R0N",
+          "chartNodeKey": "4~"
+        },
+        "n23": {
+          "key": "mW9Wn5",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "2600",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "Ha0yLH",
+          "chartNodeKey": "2600"
+        },
+        "n24": {
+          "key": "8U5hb3",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "1500",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "chartNodeKey": "1500",
+          "parent": "Ha0yLH"
+        },
+        "n25": {
+          "key": "bjEkUn",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "09:00~15:00",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "77kcFI",
+          "chartNodeKey": "900~1500"
+        }
+      },
+      "updatedDate": "2026/03/03 14:53:52"
+    },
+    {
+      "key": "iyw2Ff",
+      "label": "椰子樹鞦韆",
+      "content": "flowchart TB\n    n1[\"地區\"] --- n2[\"名稱\"]\n    n2 --- n5[\"地點\"] & n6[\"活動類型\"]\n    n6 --- n9[\"類型1\"]\n    n9 --- n4[\"開放時段\"] & n20[\"門票\"]\n    n20 --- n24[\"價錢\"]\n    n4 --- n15[\"時段\"]",
+      "parent": "MRqEPb",
+      "metadata": {
+        "n1": {
+          "key": "1G5ftU",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "kBQ3th"
+        },
+        "n2": {
+          "key": "bjQ0El",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "椰子樹盪鞦韆",
+            "shape": null,
+            "style": {},
+            "img": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer5DLWryWT11uONiDFebQfMbRT7kjGqGDuf52FxfzGpWXYJ6uWRuQkKIXq0KT6u_xkf-v7uOQf_BPyIMk6JKdA2FyBxyD_lFcBCQl63kqGkhIcTY449RJUT0xJa3r3rNaGY5Wlj=w408-h408-k-no",
+            "imageHeight": 200
+          },
+          "data": {
+            "urls": [
+              {
+                "key": "OO5sEC",
+                "text": "google map",
+                "href": "https://maps.app.goo.gl/ouA4qYFSfMnmf3jR6"
+              },
+              {
+                "key": "ww3t1q",
+                "text": "google",
+                "href": "https://www.google.com/search?q=%E7%B3%B8%E5%B3%B6+%E6%A4%B0%E5%AD%90%E6%A8%B9%E9%9E%A6%E9%9F%86"
+              }
+            ],
+            "description": ""
+          }
+        },
+        "n5": {
+          "key": "d3wTHT",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "jA3cv9"
+        },
+        "n6": {
+          "key": "hUtIdT",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n9": {
+          "key": "S7ds4S",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "8V6JEp"
+        },
+        "n4": {
+          "key": "bx7dqh",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n20": {
+          "key": "i8iRCg",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n24": {
+          "key": "03IjF2",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "0",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "Ha0yLH",
+          "chartNodeKey": "0"
+        },
+        "n15": {
+          "key": "FgNh9H",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "00:00~18:00",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": "景點無關閉時間，但周邊商店、停車場營業至18:00"
+          },
+          "parent": "77kcFI",
+          "chartNodeKey": "0~18:00"
+        }
+      },
+      "updatedDate": "2026/03/03 15:44:26"
+    },
+    {
+      "key": "c0SldR",
+      "label": "櫻井二見浦",
+      "content": "flowchart TB\n    n1[\"地區\"] --- n2[\"名稱\"]\n    n2 --- n5[\"地點\"] & n6[\"活動類型\"]\n    n6 --- n9[\"類型1\"]\n    n9 --- n4[\"開放時段\"] & n20[\"門票\"]\n    n20 --- n24[\"價錢\"]\n    n4 --- n15[\"時段\"]",
+      "parent": "MRqEPb",
+      "metadata": {
+        "n1": {
+          "key": "ly3Zf0",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "kBQ3th"
+        },
+        "n2": {
+          "key": "OXz8ZA",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "櫻井二見浦",
+            "shape": null,
+            "style": {},
+            "img": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoZlINZMO6t0KlCwH7J1zAcBCUag7kYFzlKGo8W99kavumqIEQOD-qX8qrfu9FZiq3lTfKEJkdB01blfvmg3JfGBpONgMQTIZ8DdKcACvALXcdlejClapiYHq8yZO04VTj7rfM=w408-h306-k-no",
+            "imageHeight": 200
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n5": {
+          "key": "WPs4tc",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "jA3cv9"
+        },
+        "n6": {
+          "key": "X8i732",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n9": {
+          "key": "w1cGTe",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "8V6JEp"
+        },
+        "n4": {
+          "key": "QUZ5gb",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n20": {
+          "key": "o68QoT",
+          "chartNodeValue": null,
+          "theme": {
+            "label": null,
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          }
+        },
+        "n24": {
+          "key": "fOb44y",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "0",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "Ha0yLH",
+          "chartNodeKey": "0"
+        },
+        "n15": {
+          "key": "SejGQw",
+          "chartNodeValue": null,
+          "theme": {
+            "label": "00:00~24:00",
+            "shape": null,
+            "style": {}
+          },
+          "data": {
+            "urls": [],
+            "description": ""
+          },
+          "parent": "77kcFI",
+          "chartNodeKey": "0~2400"
+        }
+      },
+      "updatedDate": "2026/03/04 17:43:05"
+    }
+  ],
+  "chartCategories": [
+    {
+      "key": "gdBkip",
+      "label": "地區",
+      "children": []
+    },
+    {
+      "key": "aP7dZb",
+      "label": "台灣",
+      "parent": "gdBkip",
+      "children": []
+    },
+    {
+      "key": "QAWkIc",
+      "label": "台北市",
+      "parent": "aP7dZb",
+      "children": []
+    },
+    {
+      "key": "ouabl2",
+      "label": "新北市",
+      "parent": "aP7dZb",
+      "children": []
+    },
+    {
+      "key": "xeuys2",
+      "label": "景點",
+      "parent": "QAWkIc",
+      "children": []
+    },
+    {
+      "key": "KeIfZp",
+      "label": "桃園市",
+      "parent": "aP7dZb",
+      "children": []
+    },
+    {
+      "key": "QG5PUm",
+      "label": "新竹縣",
+      "parent": "aP7dZb",
+      "children": []
+    },
+    {
+      "key": "4vi3LK",
+      "label": "新竹市",
+      "parent": "aP7dZb",
+      "children": []
+    },
+    {
+      "key": "4qympN",
+      "label": "景點",
+      "parent": "QG5PUm",
+      "children": []
+    },
+    {
+      "key": "iHFVrV",
+      "label": "日本",
+      "parent": "gdBkip",
+      "children": []
+    },
+    {
+      "key": "4dzDOu",
+      "label": "九州地區",
+      "parent": "iHFVrV",
+      "children": []
+    },
+    {
+      "key": "LCxAbq",
+      "label": "宮崎縣",
+      "parent": "4dzDOu",
+      "children": []
+    },
+    {
+      "key": "oY1ECI",
+      "label": "大分縣",
+      "parent": "4dzDOu",
+      "children": []
+    },
+    {
+      "key": "7l4elo",
+      "label": "景點",
+      "parent": "LCxAbq",
+      "children": []
+    },
+    {
+      "key": "TPMJ5W",
+      "label": "景點",
+      "parent": "oY1ECI",
+      "children": []
+    },
+    {
+      "key": "bioeRb",
+      "label": "福岡縣",
+      "parent": "4dzDOu",
+      "children": []
+    },
+    {
+      "key": "MRqEPb",
+      "label": "景點",
+      "parent": "bioeRb",
+      "children": []
+    }
+  ],
+  "categories": [
+    {
+      "key": "qCa2Dh",
+      "label": "地點",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "tmuqFC",
+      "label": "景點",
+      "parent": "qCa2Dh",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "3bn0Ed",
+      "label": "餐廳",
+      "parent": "fKftnm",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "sTzUiA",
+      "label": "公園",
+      "parent": "NtF4OT",
+      "theme": {
+        "label": "公園",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "9lybo9",
+      "label": "活動類型",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "lLjNBI",
+      "label": "靜態",
+      "parent": "9lybo9",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "LAjCL8",
+      "label": "動態",
+      "parent": "9lybo9",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "P1txvI",
+      "label": "滑步車、滑板",
+      "parent": "mG0hxU",
+      "theme": {
+        "label": "滑步車、滑板",
+        "shape": null,
+        "style": {},
+        "img": "./img/category/skateboard.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "eW47zp",
+      "label": "燒烤",
+      "parent": "3bn0Ed",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "ZkCLsK",
+      "label": "火鍋",
+      "parent": "3bn0Ed",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "SALcBb",
+      "label": "水樂園",
+      "parent": "MaUVPi",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "E6fben",
+      "label": "遊具",
+      "parent": "LAjCL8",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "O48ASG",
+      "label": "兒童遊樂設施",
+      "parent": "E6fben",
+      "theme": {
+        "label": "兒童遊樂設施",
+        "shape": null,
+        "style": {},
+        "img": "./img/category/playground.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "ZOzlh8",
+      "label": "滑水道",
+      "parent": "E6fben",
+      "theme": {
+        "label": "滑水道",
+        "shape": null,
+        "style": {},
+        "img": "./img/category/water-slide.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "MaUVPi",
+      "label": "游泳池",
+      "parent": "LJom5T",
+      "theme": {
+        "label": "游泳池",
+        "shape": null,
+        "style": {},
+        "img": "./img/category/swimming-pool.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "7p0NlO",
+      "label": "開放時段",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "1aEOUv",
+      "label": "平日",
+      "parent": "O4YDFH",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "O4Drgl",
+      "label": "假日",
+      "parent": "O4YDFH",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "O4YDFH",
+      "label": "日期",
+      "parent": "7p0NlO",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {},
+        "img": "./img/category/calendar.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "77kcFI",
+      "label": "時間",
+      "parent": "7p0NlO",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {},
+        "img": "./img/category/clock.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "CGdDke",
+      "label": "地區",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {},
+        "img": "./img/category/location.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "f5OzrM",
+      "label": "台灣",
+      "parent": "CGdDke",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "CCRD8S",
+      "label": "日本",
+      "parent": "CGdDke",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "YLIGus",
+      "label": "台北市",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "KGimhx",
+      "label": "新北市",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "rvj9hM",
+      "label": "桃園市",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "nfNsmr",
+      "label": "新竹縣",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "V3w7ei",
+      "label": "苗栗縣",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "pR2h7j",
+      "label": "台中市",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "DOLOLs",
+      "label": "彰化縣",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "Kl1IUW",
+      "label": "雲林縣",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "joeJSh",
+      "label": "嘉義縣",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "TyioU9",
+      "label": "台南市",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "r1V8o4",
+      "label": "高雄市",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "rTvBvC",
+      "label": "屏東縣",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "UTcWyA",
+      "label": "宜蘭縣",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "s9b8xL",
+      "label": "花蓮縣",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "7CP1ua",
+      "label": "台東縣",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "gOmX7N",
+      "label": "澎湖縣",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "oktAqt",
+      "label": "萬華區",
+      "parent": "YLIGus",
+      "theme": {
+        "label": "萬華區",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "4THzOX",
+      "label": "週一",
+      "parent": "1aEOUv",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "m5Lxof",
+      "label": "週二",
+      "parent": "1aEOUv",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "mKPOR4",
+      "label": "週三",
+      "parent": "1aEOUv",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "x8KpX4",
+      "label": "週四",
+      "parent": "1aEOUv",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "fET1uI",
+      "label": "週五",
+      "parent": "1aEOUv",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "JuTrzr",
+      "label": "週六",
+      "parent": "O4Drgl",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "SXdkY6",
+      "label": "週日",
+      "parent": "O4Drgl",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "jlzrxK",
+      "label": "價錢",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {},
+        "img": "./img/category/money.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "Hn68Gd",
+      "label": "台幣",
+      "parent": "jlzrxK",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "Ha0yLH",
+      "label": "日幣",
+      "parent": "jlzrxK",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "nXD7IO",
+      "label": "年齡",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      },
+      "parent": "koKnSK"
+    },
+    {
+      "key": "dInuqG",
+      "label": "成人",
+      "parent": "nXD7IO",
+      "theme": {
+        "label": "成人",
+        "shape": null,
+        "style": {},
+        "img": "./img/category/man.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "0l5R0N",
+      "label": "小孩",
+      "parent": "nXD7IO",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {},
+        "img": "./img/category/child.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "RbjyJT",
+      "label": "幼童",
+      "parent": "0l5R0N",
+      "theme": {
+        "label": "幼童",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "toqYOE",
+      "label": "老人",
+      "parent": "dInuqG",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "78TOqg",
+      "label": "水上活動",
+      "parent": "LAjCL8",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "yH2NWF",
+      "label": "游泳",
+      "parent": "78TOqg",
+      "theme": {
+        "label": "游泳",
+        "shape": null,
+        "style": {},
+        "img": "./img/category/swim.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "koKnSK",
+      "label": "族群",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "Fr51DH",
+      "label": "身高",
+      "parent": "koKnSK",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "GI6Tbq",
+      "label": "景觀",
+      "parent": "tmuqFC",
+      "theme": {
+        "label": "自然景觀",
+        "shape": null,
+        "style": {},
+        "img": "./img/category/mountain.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "fp3qLE",
+      "label": "人文藝術",
+      "parent": "tmuqFC",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {},
+        "img": "./img/category/building.png"
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "mIrlVl",
+      "label": "動物園",
+      "parent": "CgNa6E",
+      "theme": {
+        "label": "動物園",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "BqUoWy",
+      "label": "農場",
+      "parent": "CgNa6E",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "mG0hxU",
+      "label": "人力載具",
+      "parent": "LAjCL8",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "KOUOUG",
+      "label": "腳踏車",
+      "parent": "mG0hxU",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "TJPlaR",
+      "label": "景觀列車",
+      "parent": "LAjCL8",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "CRsSeX",
+      "label": "遊樂園",
+      "parent": "LJom5T",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "Tm3VEf",
+      "label": "室內樂園",
+      "parent": "LJom5T",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "CgNa6E",
+      "label": "動植物生態",
+      "parent": "tmuqFC",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "LJom5T",
+      "label": "大眾娛樂",
+      "parent": "tmuqFC",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "fKftnm",
+      "label": "美食",
+      "parent": "qCa2Dh",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "xGCuh9",
+      "label": "博物館",
+      "parent": "tt7EJ9",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "Y925Cp",
+      "label": "美術館",
+      "parent": "tt7EJ9",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "ShRwa4",
+      "label": "歷史建築",
+      "parent": "fp3qLE",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "jSgj3I",
+      "label": "宗教信仰",
+      "parent": "fp3qLE",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "tt7EJ9",
+      "label": "文藝典藏",
+      "parent": "fp3qLE",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "2sKpux",
+      "label": "商業設施",
+      "parent": "tmuqFC",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "PwWZoC",
+      "label": "商圈",
+      "parent": "2sKpux",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "nrFGwQ",
+      "label": "購物中心",
+      "parent": "2sKpux",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "InSNoi",
+      "label": "碼頭港口",
+      "parent": "2sKpux",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "DfQ2qX",
+      "label": "觀景設施",
+      "parent": "GI6Tbq",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "F7Vfm4",
+      "label": "文化園區",
+      "parent": "fp3qLE",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "0gYf3Q",
+      "label": "新竹市",
+      "parent": "f5OzrM",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "94CMVK",
+      "label": "竹北市",
+      "parent": "nfNsmr",
+      "theme": {
+        "label": "竹北市",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "sDYKPE",
+      "label": "九州地區",
+      "parent": "CCRD8S",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "i6SQen",
+      "label": "福岡縣",
+      "parent": "sDYKPE",
+      "theme": {
+        "label": "福岡縣",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "OqcjBN",
+      "label": "熊本縣",
+      "parent": "sDYKPE",
+      "theme": {
+        "label": "熊本縣",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "j94Oq0",
+      "label": "宮崎縣",
+      "parent": "sDYKPE",
+      "theme": {
+        "label": "宮崎縣",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "nc2Yj0",
+      "label": "划船",
+      "parent": "78TOqg",
+      "theme": {
+        "label": "划船",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "7rnc6S",
+      "label": "大分縣",
+      "parent": "sDYKPE",
+      "theme": {
+        "label": "大分縣",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "lcnKlS",
+      "label": "動植物觀賞與互動",
+      "parent": "LAjCL8",
+      "theme": {
+        "label": "動植物觀賞與互動",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "4tVb3z",
+      "label": "月份",
+      "parent": "7p0NlO",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "X2A2q7",
+      "label": "自然景觀",
+      "parent": "GI6Tbq",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "NtF4OT",
+      "label": "運動休閒",
+      "parent": "tmuqFC",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "fzDd3I",
+      "label": "城鎮景觀",
+      "parent": "GI6Tbq",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "jA3cv9",
+      "label": "地標",
+      "parent": "GI6Tbq",
+      "theme": {
+        "label": "地標",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "sqVinD",
+      "label": "造景",
+      "parent": "GI6Tbq",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "IJOJ38",
+      "label": "福岡市",
+      "parent": "i6SQen",
+      "theme": {
+        "label": null,
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "kBQ3th",
+      "label": "糸島市",
+      "parent": "i6SQen",
+      "theme": {
+        "label": "糸島市",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    },
+    {
+      "key": "8V6JEp",
+      "label": "觀賞",
+      "parent": "lLjNBI",
+      "theme": {
+        "label": "觀賞",
+        "shape": null,
+        "style": {}
+      },
+      "data": {
+        "urls": [],
+        "description": ""
+      }
+    }
+  ],
+  "updatedDate": "2026/03/04 17:45:42"
+}
